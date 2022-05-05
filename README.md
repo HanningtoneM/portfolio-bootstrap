@@ -1,42 +1,72 @@
 # portfolio-bootstrap
 using CSS framework bootstrap to build my portfolio
 
-portfolio
-This is my personal portfolio to showcase my projects.
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-this project is the beginning of my microverse curriculum. building a mobile portfolio
+# Our Portfolio
 
-Built With
-HTML
-CSS
-bootstrap
+> This is our pair programming group's professional portfolio outlining selected projects
 
-Live Demo
-https://hanningtonem.github.io/portfolio-bootstrap/
+## Built With
 
-Getting Started
-To get a local copy up and running:
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
 
-Clone this repository or download the Zip folder:
-git clone https://github.com/HanningtoneM/portfolio-bootstrap.git
 
-Navigate to the location of the folder in your machine:
-you@your-Pc-name:~$ cd <folder>
+## Live Demo
 
-Author
-bust_in_silhouette hanningtone Monda
+[Live Demo Link](https://hanningtonem.github.io/portfolio-bootstrap/)
 
-Github: @HanningtoneM
-Credits 
-Template from this Figma by Microverse
-bootstrap framework
 
-Contributing
-@felix45
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+```
+  node js
+  npm
+
+```
+### Setup
+Clone the repository and change the directory to portfolio
+
+``` 
+  $ git clone git@github.com:Felix45/bootstrap-portfolio.git
+
+  $ cd bootstrap-portfolio
+
+```
+
+### Install
+Install all project dependencies by running the command below
+ 
+``` 
+  $ npm install
+```
+
+### Authors
+
+
+| 👤 Name | Github | Twitter | LinkedIn |
+|------|--------|---------|----------|
+|Hanningtone Machuka|[@HanningtoneM](https://github.com/HanningtoneM)| | |
+|Felix Ouma|[@Felix45](https://github.com/Felix45)|[@Felix_Atonoh](https://twitter.com/Felix_Atonoh)|[LinkedIn](https://www.linkedin.com/in/felix-ouma-639766b0/)|
+
+## 🤝 Contributing
+
 Contributions, issues, and feature requests are welcome!
 
-Show your support
-Give a star if you like this project and how we manage to build it!
+## Show your support
 
-memo License
-This project is MIT licens
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to [Microverse](https://bit.ly/MicroverseTN) for giving us this project to work on and [Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1), for using their design.
+
+## 📝 License
+
+This project is [MIT](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) licensed.
